@@ -1,13 +1,13 @@
 # Contributing to Education Pathways
-Thank you for investing your time in contributing to our project! Your contribution will help make Education Pathways a more useful app for students! We want to make contributing to this project as easy and transparent as possible, whether it's:
+Thank you for investing your time in contributing to our project! Your input will help make Education Pathways a more useful app for students. We want to make contributing to this project as easy and transparent as possible, whether it's to:
 
-- Proposing new features
-- Reporting a bug
-- Submitting a fix
-- Discussing the current state of the code
+- Propose a new feature
+- Report a bug
+- Submit a fix
+- Discuss the current state of the code
 
-## We Develop with Github
-We use github to host code, to track issues and feature requests, as well as accept pull requests.
+## We Develop with GitHub
+We use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
 
 ## Pull Requests
 Pull requests are the best way to propose changes to the codebase. We actively welcome your pull requests:
